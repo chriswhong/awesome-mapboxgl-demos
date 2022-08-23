@@ -16,6 +16,7 @@
 
 ## Miscellaneous
 -  [View from the ISS](https://steveattewell.com/iss): A mapbox globe, viwerd from space, with static ISS parts in the foreground. by Steve Atwell
+- [Boundaries Demo](https://demos.mapbox.com/boundaries-explorer/?country=US&layer=loc4&worldview=US#10.69/38.9028/-77.0396) - Explore the mapbox boundaries dataset (this demo is embedded at [https://www.mapbox.com/boundaries](https://www.mapbox.com/boundaries)]
 
 **Related lists**
 - [Awesome Mapbox Web Maps](https://github.com/chriswhong/awesome-mapbox-webmaps): An Awesome List of Web Map Applications built with Mapbox tools and services. 
