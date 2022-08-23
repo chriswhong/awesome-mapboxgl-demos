@@ -14,6 +14,10 @@
 
 - Peak Map ([Site](https://anvaka.github.io/peak-map)) ([Repo](https://github.com/anvaka/peak-map)): Visualize elevation of any area on the map with filled area charts (also known as a ridgeline).
 
+## Globes
+
+- [Transparent Globe](https://transparent-globe.netlify.app/): A see-through globe effect ([writeup])[https://darrenwiens.github.io/transparent-mapbox-globe.html]
+
 ## Miscellaneous
 -  [View from the ISS](https://steveattewell.com/iss): A mapbox globe, viwerd from space, with static ISS parts in the foreground. by Steve Atwell
 - [Boundaries Demo](https://demos.mapbox.com/boundaries-explorer/?country=US&layer=loc4&worldview=US#10.69/38.9028/-77.0396) - Explore the mapbox boundaries dataset (this demo is embedded at [https://www.mapbox.com/boundaries](https://www.mapbox.com/boundaries)]
