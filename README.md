@@ -23,6 +23,7 @@
 - [Boundaries Demo](https://demos.mapbox.com/boundaries-explorer/?country=US&layer=loc4&worldview=US#10.69/38.9028/-77.0396) - Explore the mapbox boundaries dataset (this demo is embedded at [https://www.mapbox.com/boundaries](https://www.mapbox.com/boundaries)]
 
 **Related lists**
-- [Awesome Mapbox Web Maps](https://github.com/chriswhong/awesome-mapbox-webmaps): An Awesome List of Web Map Applications built with Mapbox tools and services. 
-
-- [Awesome Mapbox External Developer Resources](https://github.com/chriswhong/awesome-mapbox-external-developer-resources): Third-party blogs, tutorials, codepens, videos, tools, libraries, and data that are useful to Mapbox Developers
+- [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - The Mapbox Vector Tile spec is an efficient encoding for map data into vector tiles that can be rendered dynamically.
+- [awesome-mapbox-webmaps](https://github.com/chriswhong/awesome-mapbox-webmaps) - A List of Web Map Applications built with Mapbox tools and services.
+- [awesome-mapbox-external-developer-resources](https://github.com/chriswhong/awesome-mapbox-external-developer-resources) - An awesome list of third-party developer resources to help you work with the Mapbox suite of location-based services, APIs, ADKs, libraries, and data
