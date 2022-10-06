@@ -8,6 +8,9 @@
 
 - [Raster Cloud Cover Layer on a Mapbox Globe](https://steveattewell.com/mapbox-photo/):A convrted GeoTIFF of cloud cover displayed on a Mapbox Globe with lens effects. by Steve Atwell
 
+## Scrolly Interactions/Animation
+- [Scrollydrive](https://willymaps.github.io/scrollydrive/demo/demo.html) - Tell stories as the user scrolls and the map shows progress along a route.
+
 ## Client-side Processing 
 
 - Hub and Spoke ([Site](https://willymaps.github.io/spoke/)) ([Repo](https://github.com/willymaps/spoke)): Using turf and mapbox to create dynamic hub and spoke maps.  by William Davis
