@@ -19,7 +19,7 @@
 
 ## Globes
 
-- [Transparent Globe](https://transparent-globe.netlify.app/): A see-through globe effect ([writeup])[https://darrenwiens.github.io/transparent-mapbox-globe.html]
+- [Transparent Globe](https://transparent-globe.netlify.app/): A see-through globe effect ([writeup](https://darrenwiens.github.io/transparent-mapbox-globe.html))
 
 ## Miscellaneous
 -  [View from the ISS](https://steveattewell.com/iss): A mapbox globe, viwerd from space, with static ISS parts in the foreground. by Steve Atwell
