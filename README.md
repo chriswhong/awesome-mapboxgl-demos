@@ -10,6 +10,7 @@
 
 ## Scrolly Interactions/Animation
 - [Scrollydrive](https://willymaps.github.io/scrollydrive/demo/demo.html) - Tell stories as the user scrolls and the map shows progress along a route.
+- [Highlight latitiudinal bands on scroll](https://willymaps.github.io/scrolly/scrolling.html)
 
 ## Client-side Processing 
 
