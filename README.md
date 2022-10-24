@@ -25,6 +25,7 @@
 ## Miscellaneous
 -  [View from the ISS](https://steveattewell.com/iss): A mapbox globe, viwerd from space, with static ISS parts in the foreground. by Steve Atwell
 - [Boundaries Demo](https://demos.mapbox.com/boundaries-explorer/?country=US&layer=loc4&worldview=US#10.69/38.9028/-77.0396) - Explore the mapbox boundaries dataset (this demo is embedded at [https://www.mapbox.com/boundaries](https://www.mapbox.com/boundaries)]
+- [Day & Night](https://rreusser.github.io/maps/night-and-day/#1/10/0) - Rendering a solar terminator in Mapbox, with a big tip of the hat to [@mourner](https://github.com/mourner)’s amazing SunCalc library.
 
 **Related lists**
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
