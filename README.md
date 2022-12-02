@@ -11,6 +11,7 @@
 ## Scrolly Interactions/Animation
 - [Scrollydrive](https://willymaps.github.io/scrollydrive/demo/demo.html) - Tell stories as the user scrolls and the map shows progress along a route.
 - [Highlight latitiudinal bands on scroll](https://willymaps.github.io/scrolly/scrolling.html)
+- [Linestring Animation in Scrollytelling App Demo](https://bl.ocks.org/chriswhong/raw/f2cac4cc2181c1045bc1d466ced95b48/?raw=true) - Animate a linestring after the user arrives at a scrollytelling chapter (uses the [Mapbox storytelling template](https://labs.mapbox.com/education/impact-tools/interactive-storytelling/))
 
 ## Client-side Processing 
 
