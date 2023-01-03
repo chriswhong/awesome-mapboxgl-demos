@@ -21,6 +21,8 @@
 
 - [Road Orientation Map](https://mourner.github.io/road-orientation-map/#11.58/40.7408/-74.008): A visualization of road orientations for the current map view. Explore the map to see the chart for your city!
 
+- [Shadermap (A GL Map Kaleidoscope)](https://rreusser.github.io/maps/shadermap/): inserts an extra webgl context as a map control, copies the entire map via the cpu to a new webgl texture, applies a shader, and draws it
+
 ## Globes
 
 - [Transparent Globe](https://transparent-globe.netlify.app/): A see-through globe effect ([writeup](https://darrenwiens.github.io/transparent-mapbox-globe.html))
